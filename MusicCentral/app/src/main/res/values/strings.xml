@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MusicCentral</string>
+    <string name="notification_title">MusicCentral is Running</string>
+    <string name="notification_content_text">Use MusicClient to see MusicCentral in Action</string>
+    <string-array name="songNames">
+        <item>Love The Way You Lie</item>
+        <item>Not Afraid</item>
+        <item>\'Till I Collapse</item>
+        <item>Right Round</item>
+        <item>I Gotta Feeling</item>
+    </string-array>
+    <string-array name="artistNames">
+        <item>Eminem</item>
+        <item>Eminem</item>
+        <item>Eminem</item>
+        <item>Flo Rida</item>
+        <item>Black Eyed Peas</item>
+    </string-array>
+    <string-array name="songURL">
+        <item>https://docs.google.com/uc?export=download&amp;id=16vRZ7UkaJcOBfeRLw9kYtAaMHKby2NPZ</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=1zhaPNy07hdhg0ZA4KQ94cqPVbvQUgpK2</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=19iRE8IDWOjIzIEkItszQ1xcGXzhs_Fm1</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=1kRNihuq7a6dZ7UsyWmkUk6WHCyhmM-l1</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=1-KQMgV2pY0NOEHkPF07H_75QEkCKKzIc</item>
+    </string-array>
+    <string name="title_activity_2">Activity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

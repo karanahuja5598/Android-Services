@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MusicClient</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="serviceBound">Service Bounded</string>
+    <string name="service_unbounded">Service Unbounded</string>
+    <string name="display_all_song_information">Display All Song Information</string>
+    <string name="list_of_song_names">List of Song Names</string>
+    <string name="display_song_information">Display Song Information</string>
+    <string name="text_view_1">Text View 1</string>
+    <string name="text_view_2">Text View 2</string>
+    <string name="pic_of_song">Picture of Song</string>
+    <string name="listSong">List of Songs</string>
+    <string name="enter_the_song_number_below">Enter the song number below.</string>
+    <string name="song_list">Song List</string>
+    <string name="submit_song">Submit Song</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+</resources>
